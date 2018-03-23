@@ -10,5 +10,6 @@
         "psr-0": {
             "HelloWorld": "src/"
         }
-    }
+    },
+	"version": "1.0.0"
 }
