@@ -5,13 +5,11 @@
             "name": "hs"
         }
     ],
-    "require": {
-		"monolog/monolog": "1.0"
-	},
+    "require": {},
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
         }
     },
-	"version":"1.0",
+	"version":"1.0.0",
 }
